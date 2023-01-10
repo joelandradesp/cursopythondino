@@ -9,6 +9,6 @@ def mult(n,m):
 
 def nota(n,m):
     n1 = 0.4 * n
-    n2 = 0.6 * n
+    n2 = 0.6 * m
     total = soma(n1, n2)
     return total
