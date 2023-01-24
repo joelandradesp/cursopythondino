@@ -92,14 +92,22 @@ O arquivo notas-aula-python.ipynb é um consolidado de todas as 7 aulas dadas.
 None - ausência de valor.
 
 Função Interna do Python ** type ** retorna um tipo de um objeto.
+
+```
 >>> type(3)
 <type 'int'>
 >>> type(3.0)
 <type 'float'>
 
+```
+
 ### Objeto Não-Escalar
 
+```
+
 'abc'
+
+```
 
 ### Conteúdo Programático do Curso
 
@@ -120,13 +128,13 @@ Função Interna do Python ** type ** retorna um tipo de um objeto.
 * [Fonte](https://docs.python.org/2/faq/general.html#why-is-it-called-python)
 * [Pypi](https://pypi.org/): Encontre, instale e publique pacotes Python co o Python Package Index.
 * [Cases de Sucesso](https://www.botreetechnologies.com/blog/top-10-python-use-cases-and-applications)
-* [Python](https://www.python.org/)
+* [Python](https://www.python.org/): 
 * [Library](https://docs.python.org/3/library/)
 * [String Methods](https://docs.python.org/3/library/stdtypes.html#string-methods)
 * [Lists](https://docs.python.org/3/tutorial/datastructures.html#more-on-lists)
 * [Tuples](https://docs.python.org/3/tutorial/datastructures.html#tuples-and-sequences)
 * [Dictionaries](https://docs.python.org/3/tutorial/datastructures.html#tuples-and-sequences)
-* [Referências de Links Utilizados](http://urls.dinomagri.com/refs
+* [Referências de Links Utilizados](http://urls.dinomagri.com/refs)
 * [Material de Apoio](https://pt.slideshare.net/marcelobarrosalmeida/python-para-desenvolvedores-material-apoio-parte-i)
 
 
@@ -154,14 +162,14 @@ $ jupyter notebook
 
 ```
 
-[Jupyter] (http://localhost:8888/notebooks/).
+[Jupyter](http://localhost:8888/notebooks/).
 
 O Jupyter não consegue navegar por pastas, a pasta que ele vai mostrar é a corrente.
 
 # Strings
 
 * Indexar (index) e fatiar (slice) strings.
-![Indexar (index) e fatiar (slice) strings.](/imagens/IndexarStrings.jpg "IndexarStrings.jpg")
+![Indexar (index) e fatiar (slice) strings.](/Imagens/IndexarStrings.jpg "IndexarStrings.jpg")
 
 # Tuplas
 
