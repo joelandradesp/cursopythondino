@@ -25,6 +25,7 @@ Abaixo um resumo do que esta na apostila e no aprendizado do curso.
 1. SubPasta Apostila:
 
 | Arquivo | Descrição |
+| ------------- |:-------------:|
 | PosMBA-Turma-Online-Introducao-Python.pdf | Estruturas de repeticao, notebook completo, apostila do curso |
 
 1. SubPasta notebooks jupyter:
@@ -33,6 +34,7 @@ Nesta pasta estão os exercícos oficiais e gabaritos, além de que cada noteboo
 O arquivo notas-aula-python.ipynb é um consolidado de todas as 7 aulas dadas.
 
 | Arquivo | Descrição |
+| ------------- |:-------------:|
 | aula1-parte1-jupyter.ipynb | Introdução com Jupyter - Markdown. Não há exercícios |
 | aula1-parte2-strings-gabarito.ipynb | Exercícios Tuplas, Dicionarios |
 |aula1-parte2-strings-gabarito.ipynb | Gabarito Exercícios Tuplas, Dicionarios |
